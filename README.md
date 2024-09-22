@@ -1,11 +1,11 @@
 # DEMO-AWS
-+# Deploying a Linux EC2 instance and connecting via SSH
-+
-+-In This project, the goal is to launch an EC2 (elastic cloud compute) Linux instance on AWS (amazon web services) and establish a secure connection to it using the command line interface and SSH (secure shell) protocol.
-+
-+#STEP 1:-
-+
-+-Sign in to AWS management console.
+# Deploying a Linux EC2 instance and connecting via SSH
+
+-In This project, the goal is to launch an EC2 (elastic cloud compute) Linux instance on AWS (amazon web services) and establish a secure connection to it using the command line interface and SSH (secure shell) protocol.
+
+#STEP 1:-
+
+-Sign in to AWS management console.
 +
 +![Screenshot (58)](https://github.com/user-attachments/assets/aa7bfa3c-547c-48c1-a146-f7f79249df0f)
 +
