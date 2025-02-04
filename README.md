@@ -1,7 +1,5 @@
-# DEMO-AWS
-# Deploying a Linux EC2 instance and connecting via SSH
-
--In This project, the goal is to launch an EC2 (elastic cloud compute) Linux instance on AWS (amazon web services) and establish a secure connection to it using the command line interface and SSH (secure shell) protocol.
+# Website without a Server.
+# Deploying a html Website without a server.
 
 # STEP 1:-
 
@@ -81,4 +79,4 @@
 
 ![Screenshot (73)](https://github.com/user-attachments/assets/79ecc240-1ce9-43e5-bb4e-e524aebec5af)
 
-# That's it! You have successfully Deployed a Linux EC2 Instance and Connected via SSH.
+# That's it! You have successfully Deployed a Website without using any server.
